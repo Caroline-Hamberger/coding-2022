@@ -1,6 +1,4 @@
-x
-# coding-2022
-changes
-changes 2
+This is the assignemnt for "Coding for Economists"
 
-I am writing a nice comment to test.
+The file final_assignment-git is simply the (mostly) empty file used for pulling and pushing to github
+The documentation of the project is in (file name)
