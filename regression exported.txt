@@ -1,0 +1,13 @@
+Math Scores and teachers in California		
+	(1)	(2)
+VARIABLES	OLS	Regression
+		
+teachers	-0.0102**	-0.0102**
+	(0.00486)	(0.00486)
+Constant	654.7***	654.7***
+	(1.106)	(1.106)
+		
+Observations	420	420
+R-squared	0.010	0.010
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

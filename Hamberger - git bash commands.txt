@@ -1,0 +1,16 @@
+I'll be copying all of my code into this document.
+
+Git bash & Git hub:
+
+	git clone https://github.com/Caroline-Hamberger/coding-2022.git -> cloned my repository from git hub to git bash
+	ls -> checked files in folder
+	cd coding-2022/ -> navigated to correct folder
+	ls -> checked files in folder
+	nano final_assignment_git -> made changes to the document
+	git status -> checked status (red, no comments yet)
+	git add final_assignment_git -> added comments on document changes
+	git staus -> checked status (green)
+	git commit final_assignment_git -> commited
+	git push -> pushed to git hub
+	git mv README.md new_file_name -> renamed file
+	
